@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0ncentus 🇫🇷 🇪🇺
 - 👀 I’m interested in React devloppement.
-- 🌱 I’m currently learning speeding fast react 18 modern project
+- 🌱 I’m currently learning Java things
 - 💞️ I’m looking to collaborate on my musical project website -> React, MongoDB oriented 
 - 📫 How to reach me <jeremymartin3310@gmail.com>
 
