@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0ncentus 🇫🇷 🇪🇺
-- 👀 I’m interested in React devloppement.
-- 🌱 I’m currently learning Java things
+- 👀 I’m interested in React devloppement and TS things.
+- 🌱 I’m currently learning for ISTQB certification ...
 - 💞️ I’m looking to collaborate on my musical project website -> React, MongoDB oriented 
 - 📫 How to reach me <jeremymartin3310@gmail.com>
 
