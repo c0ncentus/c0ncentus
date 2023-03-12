@@ -32,9 +32,11 @@
 
 </div>
 
----
-<h2 align="center">You can reach me at :alien:</h2>
 
+<img src="https://user-images.githubusercontent.com/25374826/224517182-07e2924f-6b3b-4232-ae1b-c69e3c959718.gif" width="100%"/>
+
+<br/><br/><br/><br/><br/>
+<h2 align="center">You can reach me at:</h2>
 <p align="center">
   <a href="https://www.youtube.com/channel/">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="150" width="150"></a>
@@ -43,8 +45,6 @@
   </a>
   <a href="mailto:jeremymartin33610@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png" height="100" width="150">
-    
-
   </a>
 </p>
 
