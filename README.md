@@ -49,8 +49,10 @@
 </p>
 
 My favorite chess gameplay (white)
-
+<div style="flex">
 <img width="300px" src="https://user-images.githubusercontent.com/25374826/224515502-2406a202-2fc6-4f3e-b204-9dc51278e6fb.gif">
 
+  <img src="https://user-images.githubusercontent.com/25374826/224517005-585c31d1-7184-441e-b522-56cf73177757.jpg" alt="First play D4 forever">
+</div>
 ⭐️ From [@c0ncentus](https://github.com/c0ncentus)
 
