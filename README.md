@@ -29,6 +29,8 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>
   <img src="https://www.vectorlogo.zone/logos/firefox/firefox-ar21.svg"/>
   <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg"/>
+  <img height="50px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"/>
+  
   <a href="https://codepen.io/"><img src="https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA"/>
   </a>
 </div>
